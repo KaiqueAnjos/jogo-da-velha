@@ -1,3 +1,3 @@
 # jogo-da-velha
 Jogo da velha para dois jogadores em Python
-<p>Caso você já tenha o Python instalado em sua máquina, basta abrir a pasta e pegar o executavel lá dentro, caso contrário baixe a pasta inteira e execute pelo atalho mesmo</p>
+<p>Caso não tenha o Python instalado em sua máquina, baixe o dist.zip e execute a partir do atalho que tem lá, caso já tenha, basta pegar o .exe</p>
