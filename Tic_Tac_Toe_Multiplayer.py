@@ -127,3 +127,4 @@ while True:
     if opcao == 'N':
         break
 print('Fim de Jogo!')
+fim = input('Pressione qualquer tecla para fechar')
